@@ -22,13 +22,13 @@ A) Working with the "working-1-main" branch
 
 B) Working with the "working-1-develop" branch
 1. Switch to local "working-1-develop"
-2. Right click left "working-1-main"
+2. Right click "working-1-main" on left panel
 3. Rebase current changes onto "working-1-main"
 4. Push to remote (depend)
 
 C) Working with the "working-1-main" branch
 1. Switch to local "working-1-main"
-2. Right click left "working-1-develop"
+2. Right click "working-1-develop" on left panel
 3. Rebase current changes onto "working-1-develop"
 4. Push to remote (depend)
 
