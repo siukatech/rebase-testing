@@ -29,6 +29,7 @@ B) Working with the "working-1-develop" branch
 C) Working with the "working-1-main" branch
 1. Switch to local "working-1-main"
 2. Right click "working-1-develop" on left panel
-3. Rebase current changes onto "working-1-develop"
-4. Push to remote (depend)
+3. ~~Rebase current changes onto "working-1-develop"~~
+4. **Merge** "working-1-develop" into "working-1-main"
+5. Push to remote (depend)
 
