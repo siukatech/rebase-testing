@@ -24,7 +24,7 @@ B) Working with the "working-1-develop" branch
 1. Switch to local "working-1-develop"
 2. Right click "working-1-main" on left panel
 3. Rebase current changes onto "working-1-main"
-4. Push to remote (depend)
+4. Push to remote (depend) ***Force Push is required if there is [x]behind y[fast-forward]
 
 C) Working with the "working-1-main" branch
 1. Switch to local "working-1-main"
