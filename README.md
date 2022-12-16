@@ -11,7 +11,7 @@ My testing count
 For example, i tried 3 times, the [number]=3
 
 # Scenario
-working-1-main = our develop branch, working-1-develop = out feature branch
+working-1-main = our develop branch, working-1-develop = our feature branch
 2 updates from "working-1-main"
 2 local pushes in "working-1-develop"
 
